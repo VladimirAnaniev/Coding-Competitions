@@ -2,4 +2,5 @@
 Results:
 --------
 - https://judge.softuni.bg/Contests/Compete/Results/Simple/365
-![My-result] (http://i.imgur.com/dJ3j3eF.png)
+<img src="http://i.imgur.com/tJWBHiw.png" alt="My-result"/>
+<img src="http://i.imgur.com/dJ3j3eF.png" alt="My result" />
