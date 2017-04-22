@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cstring>
 
+/** 
+ *Small Data Set Solution 
+ **/
 bool isTidySmall(int num) {
     int last = num % 10, next;
     num /= 10;
@@ -33,6 +36,9 @@ void smallDataset() {
     }
 }
 
+/** 
+ * Big Data Set Solution 
+ **/
 bool isTidyBig(char *num) {
     char last = num[0];
     char next;
